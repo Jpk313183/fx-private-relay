@@ -1,0 +1,5 @@
+dependabot/npm_and_yarn/react-aria-3.31.0{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  }
+}
